@@ -1,0 +1,6 @@
+url: https://github.com/wilsonchengassistant/dsh-media-player
+name: wilsonchengassistant/dsh-media-player
+category: ui
+description:
+  en: 'Play video and audio in the stock DSH right Sidebar, streamed over an authenticated HTTP Range route so a remote browser can seek large files without opening a native app on the Host.'
+  zh: '在 DSH 原生右侧栏直接播放视频与音频，经认证的 HTTP Range 流式路由传输，远程浏览器可拖动进度，无需在 Host 上打开原生播放器。'
